@@ -17,7 +17,7 @@ var x ={
         rollnumber: 55
      }
 
- }
+ };
 
  console.log(x);
  console.log(x.y);
